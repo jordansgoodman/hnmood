@@ -1,0 +1,500 @@
+We're Not Innovating, We're Just Forgetting Slower -> neutral
+TauOne Unveils Hardware-Agnostic AGI Platform Powered by Quantum Symbolic Logic -> neutral
+Show HN: Turn Any Text into Fancy Unicode Fonts You Can Use Anywhere -> neutral
+Help me vibe code the US flag in ASCII. How hard could it be, right? -> neutral
+Paddling 200km in a Paleolithic canoe from Taiwan to Japan -> neutral
+How to reward people who earn too much -> neutral
+The Pg_tde Extension Is Now Ready for Production -> neutral
+Soham Tracker List of employment attempts from the infamous Soham Parekh -> neutral
+Show HN: Server-driven web UI framework for Go -> neutral
+H.R.1 – One Big Beautiful Bill Act -> neutral
+Hackers Steal $180M from Brazilian Banking System in Largest-Ever Attack -> neutral
+Python Audio Processing with Pedalboard -> neutral
+Show HN: We built EveryTicket – modern ticketing and POS software for museums -> neutral
+Eero Pro 7 Review: Great Mesh Networking, Even If You Don't Have Wi-Fi 7 -> neutral
+Free ADHD Pomodoro Timer -> neutral
+I want to leave tech: what do I do? -> neutral
+Kepler.gl -> neutral
+A deep critique of AI 2027's bad timeline models -> neutral
+Beyond Burnout -> neutral
+Of Course We Should Privatize Some Federal Land (But Probably Won't) -> neutral
+Show HN: Track what the U.S. President is doing in real-time -> neutral
+Former, current Microsofties react to the latest round of layoffs: 'JFC, again?' -> neutral
+Epanet-JS -> neutral
+I can deploy a website with my eyes closed -> neutral
+Embroidered Life Stories -> neutral
+MCP Observability with OpenTelemetry -> neutral
+New Feature – Jordium GanttChart Vue3 -> neutral
+JustDesk – A browser-based remote desktop solution built with WebRTC -> neutral
+Mapping the off-target effects of every FDA-approved drug in existence (EvE Bio) -> neutral
+How to Get a Job at Canonical -> neutral
+Chainlink, Mastercard Tie-Up to Let Nearly 3B Cardholders Buy Crypto On-Chain -> neutral
+Devolutions sponsors avalonia with $3M to secure native RDM future -> neutral
+We Just Discovered the Fastest Interstellar Comet Yet – 150k Miles per Hour [video] -> neutral
+I quit my job to build Finyo – convert USDT/ETH to INR same day -> neutral
+Remarkable tablet can now send your notes and sketches to Slack -> neutral
+The 'economically rational' scammer who duped 19 startups into hiring him -> neutral
+Show HN: GradientForge - mesh gradients generator website and Figma plugin -> neutral
+Is eBPF the microkernel we were promised? -> neutral
+Lessons from creating my first text adventure -> neutral
+Tell HN: My Experience with Gemini CLI (Vs Claude Code) -> neutral
+Customs and Border Protection Wants New Tech to Search for Data on Seized Phones -> neutral
+Is Your Worldbuilding Up to Code? -> neutral
+Getting extensions to work with free-threaded Python -> neutral
+MaterialCurve -> neutral
+Show HN: EmitMind - Offset the Carbon Footprint of Your AI Tools -> neutral
+From Concept to Hardware: Cross-Continental IoT Development on the Beam -> neutral
+Bcachefs may be headed out of the kernel -> neutral
+No New Categories (2020) -> neutral
+What Modern Construction Can Learn from Roman Concrete -> neutral
+Neanderthals operated prehistoric "fat factory" 125k years ago in Germany -> neutral
+VirtualBox Source Code -> neutral
+Ebics API Client – Easily connect to European banks via EBICS (with live demo) -> neutral
+GitHub CEO says the 'smartest' companies will hire more devs as AI develops -> neutral
+Notes on Even and Odd Functions -> neutral
+Show HN: Flux0 – Open framework for streaming, multi-agent, LLM agnostic -> neutral
+Review: School -> neutral
+My app charted on the App Store, and that sucked -> neutral
+Serving 200M requests per day with a CGI-bin -> neutral
+How Many Agents Does it Take to Beat PyTorch? (surprisingly not that much) -> neutral
+The Utility of Futility -> neutral
+All-time classic conference talk: Wat -> neutral
+Mimicking the Benefits of Exercise with Betaine -> neutral
+Online Piracy's Great Comeback [video] -> neutral
+The details of Jane Street's alleged 'sinister scheme' in India -> neutral
+If AI ran Apollo 13 rescue mission, the crew would have died -> neutral
+I hit 6 figures with 6 years of experience -> neutral
+Social climbing isn't about who you know after all, study finds -> neutral
+JavaScript is being rewritten in Rust -> neutral
+Using Jujutsu (jj) to teach a course -> neutral
+DIY Color E-Ink Calendar with a Raspberry Pi [video] -> neutral
+Personal AI Morning Brief – Your Gmail, Shopify, Jira as a Podcast -> neutral
+Bolt Drops Unlimited PTO -> neutral
+Pledge() in OpenBSD: A Deep Dive into Self-Imposed Sandboxes -> neutral
+Neanderthals had a "fat factory" 125,000 years ago – much earlier than thought -> neutral
+Apple looked into building its own AWS competitor -> neutral
+The Earth4All scenarios: human wellbeing on a finite planet towards 2100 -> neutral
+Death by a Thousand Cut Corners -> neutral
+LLM Security: A New Challenge for Companies -> neutral
+Bypassing Multi-Factor Authentication -> neutral
+Diagrams as Code – Gizmo Draw -> neutral
+The Economic Effect of a Condo Arrangement -> neutral
+Why I left my tech job to work on chronic pain -> neutral
+Openfire 5.0.1 Released – Open-Source – Java XMPP/Jabber Server -> neutral
+Certifyi – Compliance Automation for Startups -> neutral
+The role of office-based work in a healthy work/life balance -> neutral
+Raspberry Pi Radio Module 2 (RM2) is officially available for $4 -> neutral
+Vibetastic – Single Key Keyboard -> neutral
+Fastest-Growing Infra Company in History -> neutral
+Fuego: The framework for busy Go developers -> neutral
+Show HN: Built an MVP of MVP Roast. Yes, it might roast itself -> neutral
+The Pinto Memo: 'It's Cheaper to Let Them Burn ' -> neutral
+Show HN: Kuvasz – an open-source uptime and SSL monitoring service -> neutral
+Show HN: I AI-coded a tower defense game and documented the whole process -> neutral
+Castelion is raising a $350M Series B to scale hypersonic missile business -> neutral
+I spent a week without IPv4 to understand IPv6 transition mechanisms (2023) -> neutral
+Beloved 27-Year-Old Gaming Site Wipes Forums, Relaunches as Gambling Cash-Grab -> neutral
+Is there a no-AI audience? -> neutral
+How to hire force multipliers (not 10x engineers) -> neutral
+Best ways to make money from my ideas for startup of others -> neutral
+Izzzzi – Slow Social Media -> neutral
+EU businesses want a pause on AI regs to cope with unregulated Big Tech players -> neutral
+Hide and seek: Uncovering new ways to detect vault apps on smartphones -> neutral
+India bars Jane Street from its securities market, citing manipulation -> neutral
+Catching Prompt Regressions Before They Ship: Semantic Diffing for LLM Workflows -> neutral
+Rust and WASM for Form Validation -> neutral
+SimpleX: New experience of connecting with people in SimpleX Chat v6.4-beta.4 -> neutral
+Show HN:FounderMatch – Lightweight dev/sales cofounder matching tool -> neutral
+Windows 11 overtakes Windows 10 -> neutral
+Dear Social Media -> neutral
+Over 50% of Girls Failed Nepal's 10th Grade Exam in 2024–25 -> neutral
+AI Openness Update: From Agentic to Public Good in 2025 [pdf] -> neutral
+Pir Sadardin -> neutral
+Show HN: Taurin. Local-First Email Client with Personal AI Agent -> neutral
+Effective TikTok Content Strategies for Entrepreneurs -> neutral
+Cowboy: An Agile Programming Methodology for a Solo Programmer (2006) -> neutral
+Is an Intel N100 or N150 a better value than a Raspberry Pi? -> neutral
+My open source project was stolen and relicensed by a YC company -> neutral
+Demicrosofted and simplified UEFI Secure Boot (RC1 demo) [video] -> neutral
+Microsoft suspends 3k Outlook and Hotmail accounts created by NK IT workers -> neutral
+Show HN: BunkerWeb – the open-source and cloud-native WAF -> neutral
+Varoufakis: In age of failing economies and populist backlash we need Marxism -> neutral
+Show HN: Fast Thermodynamic Calculations in Python -> neutral
+Must-install update for the Pixel 6a aims to tackle overheating issues -> neutral
+A Rust-TypeScript integration -> neutral
+Programming Parallel Computers -> neutral
+Minister demands overhaul of UK's leading AI institute -> neutral
+How to render a mesh gradient using RBF interpolation -> neutral
+Laid Off Workers Should Use AI to 'Reduce the Emotional Load of Job Loss' -> neutral
+How far would a tanker trip go if it used all the fuel for itself -> neutral
+Show HN: Codzly – Code to image converter. Free, no login -> neutral
+Show HN: AI that make your own Home design plans&blueprints for free -> neutral
+Cultural Barriers to BRICS Collaboration vs. Western Alliances -> neutral
+14-hour+ global blackout at Ingram Micro halts customer orders -> neutral
+Ask HN: Which of the software you use feels slow and sluggish? -> neutral
+How Smell Guides Our Inner World -> neutral
+Els Altair School / Shell Arquitectos -> neutral
+Quantum equivalent of thermodynamics' 2nd law discovered for entanglement -> neutral
+How to Train Your D̶r̶a̶g̶o̶n̶ Manager -> neutral
+Why More North Americans Are Skipping the Funeral Home -> neutral
+Browserslist-Rs Gets Major Refactor, Cutting Binary Size by over 1MB -> neutral
+The Cangjie Programming Language by Huawei -> neutral
+Can Large Language Models Play Text Games Well? -> neutral
+China's giant new gamble with digital IDs -> neutral
+Trump's big bill will change taxes -> neutral
+Show HN: I'll build your billing stack in 24 hours – ping me -> neutral
+Designing a Life Management System That Doesn't Fight Back -> neutral
+Brine Rejection -> neutral
+Show HN: We built an AI-agent with a state machine instead of a giant prompt -> neutral
+The masterful design of the two-liter plastic soda bottle [video] -> neutral
+With all the cuts to NASA and STEM fields,are we giving up on Tech race to China -> neutral
+AI That Thinks Like Us – and Could Help Explain How We Think -> neutral
+2k Verified CEO Emails from $5M+-Revenue Companies (Free) -> neutral
+Show HN: A tool to simplify invoicing in Stripe (invoicelyapp.com) -> neutral
+The chemical secrets that help keep honey fresh for so long -> neutral
+Your Brain on AI -> neutral
+Show HN: Refractive JavaScript Glass -> neutral
+Show HN: Nich digital catalogs and mockups that make pattern designers money -> neutral
+OpenAI almost shipped ChatGPT with a different name – before a late-night twist -> neutral
+Reflections on Haskell and Rust -> neutral
+Show HN: Rhythm Is All You Need: Someone Please Build This -> neutral
+Your Review: Alpha School -> neutral
+New World Bank classification of countries by income groups -> neutral
+Establishing Best Practices for Building Rigorous Agentic Benchmarks -> neutral
+Microsoft to Lay Off About 9k Employees -> neutral
+India's Scramble for AI Independence -> neutral
+Home – AniWave – Watch Free Anime, Online Anime Streaming – Aniwave -> neutral
+Cuba's Power Grid Nears Total Failure -> neutral
+Unify AI Coding Tools with One Standard -> neutral
+Young Europeans losing faith in democracy, poll finds -> neutral
+Wikidata: Attempting to bridge FOSS ideals and direct democracy -> neutral
+Why Americans Don't Care About Some Things -> neutral
+More than 1 in 5 Show HN posts are now AI-related, get > half the votes/comments -> neutral
+Writing Hack: Retyping a Draft from Scratch -> neutral
+Our Fullstack Architecture: Eta, Htmx, and Lit -> neutral
+OpenD has private(this), so why won't D even consider it? -> neutral
+Samsung phones can survive twice as many charges as Pixel and iPhone -> neutral
+From Brat Pack to PC Pirate Anthony Michael Hall Plays Bill Gates (1999) -> neutral
+Show HN: FletX – A Lightweight Reactive Framework for Flet (Python UI) -> neutral
+Design Leadership in the Age of AI -> neutral
+Building a web shell console from scatch -> neutral
+Prompt Jesus – Thou Shalt Not Prompt Poorly -> neutral
+Show HN: Memstop – A tool to prevent OOM errors in parallel builds -> neutral
+HNClient – A desktop client for Hacker News -> neutral
+Heads firmware on your laptop verifies against stealthy tampering -> neutral
+The First Time I Was Almost Fired from Apple -> neutral
+Physical Limits of Computation -> neutral
+Making of an Elixir Conference -> neutral
+Wireless Is a Trap (2020) -> neutral
+RemixMart – Generate and remix AI images using multiple top models -> neutral
+Profile CUDA kernels with one command, zero GPU setup -> neutral
+Columbia University Applicants' Personal Data Stolen by Hacker -> neutral
+Get in losers, we're moving to Linux -> neutral
+Making of an Elixir Conference -> neutral
+Our small team vs. millions of bots -> neutral
+Quantum Cloud: From Lab to Live -> neutral
+Larry (cat) -> neutral
+What's new in Java 25 for us, developers? -> neutral
+Ask HN: What are the best resources to learn Rust in 2025? -> neutral
+What's the fastest way you've built a useful AI agent? -> neutral
+Writing a Game Boy Emulator in OCaml -> neutral
+Show HN: Juskim – Chrome ext to auto-TL;DR every article before u start reading -> neutral
+The Work of Building for Other Engineers -> neutral
+An attempt at defining consciousness made based on information theory -> neutral
+OSI provides feedback to the EU Cybersecurity Act -> neutral
+Malaria as neurosyphilis treatment: A historical case study in medical ethics -> neutral
+The Parrot in the Machine -> neutral
+Fictional K-pop bands zoom to top of US music charts -> neutral
+Show HN: Refinery – stop hardcoding test cases -> neutral
+Show HN: I built a tool that reveals hidden APIs the browser hits (open source) -> neutral
+Headless, zero dep. modal stack manager for React -> neutral
+Pud's Small Batch Headphones -> neutral
+When Will Robots Go Mainstream? -> neutral
+Why most Kimchi Premium trackers are basically useless -> neutral
+Surflow: Tab Tagging System in Tree -> neutral
+Post-Scarcity Blues [video] -> neutral
+Show HN: vGhost – Vue directive to unload offscreen elements and maintain layout -> neutral
+Sombrahq/sombra-CLI: a CLI to scaffold and update projects from production code -> neutral
+Man goes viral after working for four startups at the same time -> neutral
+Baidu Researchers Propose AI Search Paradigm -> neutral
+Cats Confuse Reasoning LLM: Query Agnostic Adversarial Triggers for Reasoning -> neutral
+Nonce CSP bypass using Disk Cache -> neutral
+Air India Accident Discussion Organised by Subject -> neutral
+Parsing layout, or: Haskell's syntax is a mess -> neutral
+Show HN: Board Foot Calculator -> neutral
+Slowly listing all games every made that I can -> neutral
+New evidence that some supernovae may be a "double detonation" -> neutral
+SZ Games：a platform offering over 1k free online games -> neutral
+'I'm being paid to fix issues caused by AI' -> neutral
+AI promises to free up time. Might it stop us learning, creating and exploring? -> neutral
+Steam has been flooded with games stolen from itch.io -> neutral
+Vector Database from a Beginners POV -> neutral
+Show HN: InvoiceFast – Generate clean invoices instantly, pay per use -> neutral
+Benchmark for Evaluating Text Embeddings -> neutral
+Show HN: I built an AI that automates my entire freelancing business–now what? -> neutral
+Tell HN: Sweden has its first arrest against a man for "insult against official" -> neutral
+Show HN: YouTube Thumbnail Downloader – HD Thumbnails for Shorts and Videos -> neutral
+Zig Roadmap 2026 [video] -> neutral
+Estimating the number of J programmers in HN -> neutral
+Talking Clock continues to tick online after Telstra's September shutdown (2019) -> neutral
+DRM Panic QR code generator -> neutral
+Ask HN: How do companies like OpenAI, Perplexity fine tune rich output? -> neutral
+Duck.ai Privacy Policy -> neutral
+Show HN: Hands on tutorial for open source contribution -> neutral
+As a Labrador swam by me out to sea his owner said I hope he doesn't meet a seal -> neutral
+Show HN: ClientPort – A simple share-link client portal for freelancers -> neutral
+Hot-reloading for HTML, CSS, and JavaScript, running in the browser -> neutral
+Famed protein structure competition nears end as NIH grant money runs out -> neutral
+Senior Engineer tries Vibe Coding [video] -> neutral
+Met Police release footage – over 1k arrests made using facial recognition -> neutral
+Apple's Haptic Trailer – How It Works -> neutral
+Los Angeles Police Officers Broke Protocols and Injured Protesters -> neutral
+A Vibe Coded One-Button Mechanical Keyboard -> neutral
+Actor Michael Madsen dies at 67 -> neutral
+Save the world, write more efficient code [pdf] -> neutral
+Any [60] language. Any voice. Instantly -> neutral
+Figma spends $300k on AWS daily -> neutral
+Australians will soon need their age checked to log into online search tools -> neutral
+The most mysterious bug I solved at work -> neutral
+The American DeepSeek Project -> neutral
+When Your Exit Strategy Dream Is My Customer Nightmare -> neutral
+React Without the Hocus Pocus -> neutral
+Rising surface salinity declining sea ice: Southern Ocean state revealed by sats -> neutral
+Embracing the power of the empty set in API design -> neutral
+Viral band finds itself at the centre of AI claims and hoaxes -> neutral
+Standard Error of What Now? -> neutral
+Kanvas – An Open Source Project for Forensics and Incident Response -> neutral
+100 Cameras: Tokyo Metro [video] -> neutral
+Can you attach multiple USB-C plugs to a single motherboard header? -> neutral
+Free iOS 26 App Icon Mockup -> neutral
+Langtrace -> neutral
+330× faster: Four different ways to speed up your code -> neutral
+Stabilizing Naked Functions -> neutral
+I tried running Gemini CLI in parallel -> neutral
+Attention is all you need (2017) -> neutral
+We Built a 15-Agent System with Anthropic MCP: Here's When It Fails (and Shines) -> neutral
+AI models just don't understand what they're talking about -> neutral
+Show HN: Pinterest Video Downloader – Pinterest Image and Video Downloader -> neutral
+Jet stream poleward migration leads to marine primary production decrease -> neutral
+DeepSeek Debrief: >128 Days Later -> neutral
+Writing is a superpower in this AI age -> neutral
+The US dollar is on track for its worst year in modern history -> neutral
+Tldraw – Good Free Whiteboard -> neutral
+A consumption basket approach to measuring AI progress -> neutral
+Warmwind – Autonomous Cloud Employees -> neutral
+12-Factor Agents: Patterns of Reliable LLM Applications – Dex Horthy, HumanLayer [video] -> neutral
+The pipe operator in PHP 8.5 -> neutral
+AI Maturity Model for Software Engineering Teams -> neutral
+A catamorphic lambda-calculus interpreter -> neutral
+Show HN: Dhansishtha-2.0-preview – First Intermediate Reasoning model -> neutral
+Original Doom Designer's New FPS Is the Latest Casualty of the Xbox Cuts -> neutral
+Linux Photo in Terminal -> neutral
+What is going on in Unix with errno's limited nature -> neutral
+Code of practice to help companies with AI rules may come end 2025, EU says -> neutral
+Show HN: Cco – a sandbox for Claude Code so you can YOLO made safe(ish)ly -> neutral
+Home Assistant Core Copilot and Claude Instructions -> neutral
+Show HN: Happy Digging Day from Digging Town -> neutral
+JShelter – Browser extension to mitigate potential threats from JavaScript -> neutral
+Would you pay $19 for a strawberry? -> neutral
+Go-cron: A minimal Golang scheduler supporting standard cron expressions -> neutral
+Libfyaml – Proper, compliant, maintained(ish) YAML parsing library -> neutral
+Design Decisions Behind App.build, a Prompt-to-App Generator -> neutral
+America Is a Myth -> neutral
+Quitting programming 'cuz of LLMs is like quitting carpentry 'cuz of table saws -> neutral
+Quimera: feedback-driven exploit generation for smart contracts using LLMs -> neutral
+Process vs. Prejudice -> neutral
+SegmentAnyMuscle: A muscle segmentation model across different locations in MRI -> neutral
+Pitch me your idea and I will build your MVP for free. Only one idea selected -> neutral
+Digital Waste: What It Is and How to Cut Down -> neutral
+One Billion Cells – Another Multiplayer Demo with Clojure -> neutral
+How Much Revenue Do Tech Giants Earn per Employee? -> neutral
+The Great Progression, 2025 to 2050 -> neutral
+Show HN: CheesyMamas v1.1 – Git Diff Pane Finalized and Bash Support Added -> neutral
+HuggingChat is shutting down (for now) -> neutral
+Hierarchical Reasoning Model -> neutral
+Google says "not a security vulnerability", quickly fixes without attribution -> neutral
+WASM Agents: AI agents running in the browser -> neutral
+Evaluating the factuality of verifiable claims in long-form text generation -> neutral
+Google Chat is trying out an Expressive new look -> neutral
+$4,785. That's How Much It Costs to Be a Sports Fan Now -> neutral
+Things I Learned About Information Retrieval -> neutral
+Cagot – another of Europe's historically-oppressed people -> neutral
+Ask HN: What will happen with the H1-B program? -> neutral
+Show HN: I built sinkedin – a LinkedIn but for flauting failures and screwups -> neutral
+Cyber is a new language for fast, efficient, and concurrent scripting -> neutral
+Major reversal in ocean circulation detected in the Southern Ocean -> neutral
+The Rise of Whatever -> neutral
+Large Scale Inference -> neutral
+White House claims expansive power to nullify TikTok ban and other laws -> neutral
+ML Conferences Should Establish a "Refutations and Critiques" Track -> neutral
+Towards Effective Extraction and Evaluation of Factual Claims -> neutral
+Ask HN: What's your favorite little script you've written? -> neutral
+JSON-server: Get a full fake REST API with zero coding in less than 30 seconds -> neutral
+A foundation model to predict and capture human cognition -> neutral
+Huawei's Pangu Pro MoE model is likely derived from Qwen model -> neutral
+Hymn to Babylon, missing for a millennium, has been discovered -> neutral
+New coeliac disease blood test set to enable diagnosis on gluten-free diets -> neutral
+Zig breaking change – initial Writergate -> neutral
+Putin signed a directive to create Russian messenger -> neutral
+Budget Bill Takes WiFi & Citizen Spectrum Away and Hands It to Wireless Carriers -> neutral
+AI coding tools are perhaps our new terminal emulators -> neutral
+Show HN: I made the social deduction board game "Avalon" playable online -> neutral
+LooksMapping -> neutral
+New geometry discovery could stop lunar landers from falling over -> neutral
+Mindset Gap -> neutral
+River Fleet -> neutral
+Stranded UK F-35 jet becomes unexpected star in Indian tourism campaign -> neutral
+Electronic Arts Leadership Are Out of Their Goddamned Minds -> neutral
+Has Xbox Considered Laying One Person Off Instead of Thousands? -> neutral
+When will ad tech measurement not be a mess of fraud? -> neutral
+Fedora Linux Looks to End Support for UEFI on MBR-Paritioned Disks -> neutral
+Measurement in Early Software -> neutral
+Cloudflare: One-click remote MCP servers -> neutral
+Social Security Applauds Passage of Legislation Providing Historic Tax Relief -> neutral
+Nintendo locked down the Switch 2's USB-C port and broke third-party docking -> neutral
+XMB Forum 1.10 under development (first major release development in 16 years) -> neutral
+Show HN: CrossExam: a notebook for locally interrogating congressional bills -> neutral
+Show HN: Bskydelete – Bulk cleaner for Bluesky timelines -> neutral
+Choosing a Generator – Magnum MLT3060K Light Tower and Generator -> neutral
+Lessons to Get Started Building AI Agents -> neutral
+Show HN: AI agents that apply for apartments for you -> neutral
+Make Your Renders Unnecessarily Complicated (2023) [video] -> neutral
+A project to bring CUDA to non-Nvidia GPUs is making major progress -> neutral
+Pickle -> neutral
+Show HN: AI Vlog Maker – Instantly Generate Viral Character Vlogs with AI -> neutral
+Ask HN: What are good questions to ask in a remote round in post GPT era? -> neutral
+Canned-Food Producer Del Monte Foods Files for Bankruptcy -> neutral
+Show HN: Tango Game Unlimited -> neutral
+India regulator bars Jane Street from local securities market -> neutral
+Bcachefs: On Pending Changes -> neutral
+Sutskever to Lead Safe Superintelligence after Meta poaches CEO Gross -> neutral
+Scientists Warn US Will Lose a Generation of Talent Because of Trump Cuts -> neutral
+Building a message board for Claude, learning MCP along the way -> neutral
+"The Tactful Saboteur" by Frank Herbert -> neutral
+Ask HN: How to make money with SaaS without network or VC funding? -> neutral
+Counting at Scale -> neutral
+Jane Street Curbed in India Markets After Alleged Illegal Gain -> neutral
+The surprisingly deep rabbit hole of Rust's temporaries -> neutral
+My open source project was relicensed by a YC company [license updated] -> neutral
+Why Cloudflare wants AI companies to pay for content -> neutral
+Neanderthals operated "fat [extraction] factory" 125,000 years ago -> neutral
+Nvidia briefly on track to become most valuable company -> neutral
+Artificial Intelligence in China -> neutral
+Show HN: SWC Plugin SVG as React Component -> neutral
+Our Fullstack Architecture: Eta, Htmx, and Lit -> neutral
+RP2350-PiZero Pairs RP2350 Microcontroller with Raspberry Pi Zero Form Factor -> neutral
+GrapheneOS warns ICEBlock users of court order risk -> neutral
+Making a computer out of marbles and wood [video] -> neutral
+Senescence-resistant human cells counter aging in primates -> neutral
+Design of Q8bot: A Miniature, Low-Cost, Dynamic Quadruped Built with Zero Wires [video] -> neutral
+Ask HN: How are startups dealing with key talent poaching? -> neutral
+The Garden Not at Home -> neutral
+Why Duolingo switched from Hearts to a battery -> neutral
+Supreme Court Agrees to Hear Cases Involving Transgender Athletes -> neutral
+Kubernetes is a symptom, not a solution -> neutral
+EPA puts 139 employees on leave after they sign a 'declaration of dissent' -> neutral
+Anarchy in the Database: A Survey and Evaluation of DBMS Extensibility [pdf] -> neutral
+Octopuses' 8 Arms Sample Microbiomes -> neutral
+The Georgist Roots of American Libertarianism -> neutral
+The Air Force fitness test may soon increase with 2-mile runs, twice-a-year -> neutral
+Radio observations shed more light on the properties of Pandora's Cluster -> neutral
+Ask HN: Is there a business for extracting US tech talent? -> neutral
+Claude-Gemini Bridge -> neutral
+SimpleX network: new experience of connecting with people -> neutral
+The risk of using generative AI when applying for jobs -> neutral
+Show HN: A one-stop resource dedicated to helping Python developers -> neutral
+How to Build a Third Place on Focusmate -> neutral
+Generative AI could help make construction sites safer -> neutral
+Summary: The Dose Effect by TJ Power -> neutral
+Show HN: Tired of fixing broken LLM agents? Automate it -> neutral
+Show HN: A stupid simple barely S3 compatible file server -> neutral
+How I Outsource My Self-Control -> neutral
+The letters that convinced Google and Apple to keep TikTok online -> neutral
+Tiny Great Languages: Mouse -> neutral
+Tell Qualcomm: Release fully-free drivers for modern Wi-Fi chipsets -> neutral
+'Thirstier' atmosphere is making droughts more severe -> neutral
+Show HN: I made an app that turns your life memories into Manga -> neutral
+Show HN: Built email parsing for booking confirmations for my travel app – Aruko -> neutral
+Autopoietic Networks (a few more examples) -> neutral
+Trump's tax-and-spending bill passes Congress in major win for president -> neutral
+Building a fast website with the MASH stack in Rust -> neutral
+Guy accused of working at 4 YC startups at the same time -> neutral
+Printcrime (2006) -> neutral
+The Scam of Age Verification -> neutral
+Ocean-2: wave based power generation [video] -> neutral
+Show HN: Listopia Open Source AI Powered List Manager -> neutral
+Active CPU pricing for Fluid compute -> neutral
+Unreal Engine 5.6 Release Notes -> neutral
+CO2 sequestration through accelerated weathering of limestone on ships -> neutral
+Provider of covert surveillance app spills passwords for 62,000 users -> neutral
+The curious case of the British F35B jet stuck in India -> neutral
+What Are MCP Servers? -> neutral
+Wordserpent -> neutral
+DeepSWE: Training an Open-Sourced Coding Agent by Scaling RL -> neutral
+Los Alamos Scientist's Insights on the GBU-57 Ordnance Penetrator -> neutral
+How to write Rust in the kernel: part 1 -> neutral
+Health effects of processed meat, sugar-sweetened beverages and trans fat -> neutral
+Data Science Weekly – Issue 606 -> neutral
+Why Are Liberal Professors More Conservative on Campus? -> neutral
+Jaguar Sales Drop by 97 Percent in Europe, Which Is Allegedly Fine -> neutral
+Uncommon Uses of Python in Commonly Used Libraries (2022) -> neutral
+What to do if your SSRI is making hot days even worse -> neutral
+My love/hate relationship with Unix-likes -> neutral
+Marketing for maintainers: Promote your project to users and contributors (2022) -> neutral
+Show HN: Turn any webpage/video into a summary, podcast, or mindmap -> neutral
+Stabilizing Naked Functions -> neutral
+ExportPB -> neutral
+The principles of extreme fault tolerance -> neutral
+Immune and metabolic effects of African heritage diets versus Western diets -> neutral
+Can data from the Large Hadron Collider snap string theory? -> neutral
+Soham Parekh Breaks His Silence (First Interview) [video] -> neutral
+New asteroids spotted within the Rubin Observatory's first hours -> neutral
+Roku has secret menus and screens -> neutral
+Airdelivery is a free, encrypted p2p file sharing tool -> neutral
+Honeyfetch: Another Fetcher and in Rust -> neutral
+Suchir Balaji -> neutral
+Get in losers, we're moving to Linux -> neutral
+Say Goodbye to Spam Tmpmails.com – Your Secure and Anonymous Temporary Email -> neutral
+Why Code Authors Should Have the Final Say on Code Reviews -> neutral
+Rethinking how renting works here's our approach -> neutral
+Lingerie Fighting Championships to Add $2M in Bitcoin to Treasury -> neutral
+Congress passes 'big, beautiful bill' -> neutral
+Coding in Advent -> neutral
+Call with Current Continuation (2018) -> neutral
+The Rise of "Context Engineering" -> neutral
+The engineer burning through tech by working at 3 to 4 startups simultaneously -> neutral
+Michael Madsen has died -> neutral
+Serial SPI RAM Emulation on Raspberry Pi Pico RP2040 MCU -> neutral
+Extending That XOR Trick to Billions of Rows -> neutral
+Create llms.txt files for any website in seconds -> neutral
+Ask HN: Any purely data driven public policy research think tanks? -> neutral
+Self-optimisers: why 'microefficiencies' are on the rise -> neutral
+Can cheese turn your dreams into nightmares? -> neutral
+How to Surf the Web in 2025, and Why You Should -> neutral
+Complected and Orthogonal Persistence -> neutral
+Harvesting 5oz/d H2O in Death Valley with meter scale panel using only sunlight -> neutral
+Discovering cognitive strategies with tiny recurrent neural networks -> neutral
+Apple gets punchy in Brussels DMA compliance workshop -> neutral
+Ask HN: Should I use microservices or monolithic architecture? -> neutral
+Garmin patents a sensor that can detect dehydration levels -> neutral
+Building Organizational Capacity for Large-Scale Change -> neutral
+Twilio account suspended minutes after making a $20 payment -> neutral
+Satellite evidence points to heightened operations at N. Korean nuclear site -> neutral
+Performance Profiling on AMD GPUs – Part 1: Foundations -> neutral
+UFOs, Aliens, and the Unknown Other -> neutral
+US Job Growth Picks Up -> neutral
+Real-Time Importance Deep Shadows Maps with Hardware Ray Tracing -> neutral
+LoRA Fine-Tuning Without GPUs -> neutral
+UPS Offers Buyouts to Drivers, a First in Its 117-Year History -> neutral
+Caddy module to help match against DNS blocklists -> neutral
+Show HN: Claude Code History Viewer for macOS -> neutral
+Real-Time GPU Tree Generation -> neutral
+AI Pods as a Service: Modular, Scalable, and Built for Speed -> neutral
+Drug Discovery May Be in the Cold War Era -> neutral
+Urban environment influences adolescent's sense of justice and trust -> neutral
+Restate 1.4: We've Got Your Resiliency Covered -> neutral
+Heisenbug -> neutral
+Is mental health 'awareness' backfiring? -> neutral
+MedOne's Colocation Network -> neutral
+Fixing the Amiga 1200 with a cheap meter [video] -> neutral
+Passive Smartphone Sensors for Detecting Psychopathology -> neutral
